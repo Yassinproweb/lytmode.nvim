@@ -1,6 +1,6 @@
 # lytmode.nvim
 
-Inspired by [LYT-Mode](https://github.com/github-main-user/lytmode.nvim) colorscheme for Obsidian.
+Inspired by [LYT-Mode](https://github.com/github-main-user/lytmode.nvim) colorscheme for neovim.
 
 Just like the original LYT Mode, this theme **does not** separate colors into light and dark modes.
 It's not dark, and it's not light — it's something in between.

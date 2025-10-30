@@ -7,7 +7,7 @@ It's not dark, and it's not light — it's something in between.
 
 
 ![Demo Screenshot](/lytmode.png)
--- `**font: "M+Code Nerd Font"**, **lang: "golang"**`
+**`font: "M+Code Nerd Font", lang: "golang"`**
 
 ## 📦 Installation
 
